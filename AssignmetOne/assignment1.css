@@ -1,4 +1,4 @@
-section{
+section article img{
     background-color: #e5d5c3;
     padding: auto;
 }
@@ -48,4 +48,27 @@ li a {
     border-radius: 50px;
     background-color: #ffffff;}
 
+  table,th,td{
+text-align: center;
+    border: 1px  solid  #e7a95e ;
+   
+    border-collapse: collapse;
+   margin: auto;
+
+
+  }
+ 
   
+  .table1{
+  
+    font: 1em sans-serif;
+
+  }
+ tr th{
+
+   height: 50px;
+   font-size: larger;
+}
+tr td{
+    font-size: medium;
+}
