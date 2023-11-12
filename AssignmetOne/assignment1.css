@@ -22,10 +22,10 @@ article p{
 text-align:center;
 }
 
-ul{
+#ul{
     list-style-type: none;
 }
-li {
+.li {
 display: inline;
 border-radius: 10px;
     background-color: #ffffff;
